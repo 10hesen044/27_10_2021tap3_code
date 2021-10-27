@@ -1,0 +1,13 @@
+C:\Users\Hesen\Desktop\27.10.2021TAP3\27.10.2021tap3\27.10.2021tap3\bin\Debug\netcoreapp3.1\27.10.2021tap3.exe
+C:\Users\Hesen\Desktop\27.10.2021TAP3\27.10.2021tap3\27.10.2021tap3\bin\Debug\netcoreapp3.1\27.10.2021tap3.deps.json
+C:\Users\Hesen\Desktop\27.10.2021TAP3\27.10.2021tap3\27.10.2021tap3\bin\Debug\netcoreapp3.1\27.10.2021tap3.runtimeconfig.json
+C:\Users\Hesen\Desktop\27.10.2021TAP3\27.10.2021tap3\27.10.2021tap3\bin\Debug\netcoreapp3.1\27.10.2021tap3.runtimeconfig.dev.json
+C:\Users\Hesen\Desktop\27.10.2021TAP3\27.10.2021tap3\27.10.2021tap3\bin\Debug\netcoreapp3.1\27.10.2021tap3.dll
+C:\Users\Hesen\Desktop\27.10.2021TAP3\27.10.2021tap3\27.10.2021tap3\bin\Debug\netcoreapp3.1\27.10.2021tap3.pdb
+C:\Users\Hesen\Desktop\27.10.2021TAP3\27.10.2021tap3\27.10.2021tap3\obj\Debug\netcoreapp3.1\27.10.2021tap3.csprojAssemblyReference.cache
+C:\Users\Hesen\Desktop\27.10.2021TAP3\27.10.2021tap3\27.10.2021tap3\obj\Debug\netcoreapp3.1\27.10.2021tap3.AssemblyInfoInputs.cache
+C:\Users\Hesen\Desktop\27.10.2021TAP3\27.10.2021tap3\27.10.2021tap3\obj\Debug\netcoreapp3.1\27.10.2021tap3.AssemblyInfo.cs
+C:\Users\Hesen\Desktop\27.10.2021TAP3\27.10.2021tap3\27.10.2021tap3\obj\Debug\netcoreapp3.1\27.10.2021tap3.csproj.CoreCompileInputs.cache
+C:\Users\Hesen\Desktop\27.10.2021TAP3\27.10.2021tap3\27.10.2021tap3\obj\Debug\netcoreapp3.1\27.10.2021tap3.dll
+C:\Users\Hesen\Desktop\27.10.2021TAP3\27.10.2021tap3\27.10.2021tap3\obj\Debug\netcoreapp3.1\27.10.2021tap3.pdb
+C:\Users\Hesen\Desktop\27.10.2021TAP3\27.10.2021tap3\27.10.2021tap3\obj\Debug\netcoreapp3.1\27.10.2021tap3.genruntimeconfig.cache
